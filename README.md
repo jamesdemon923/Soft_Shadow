@@ -22,7 +22,7 @@ The 2nd Pass: render the real scene from the current camera and transform pixel 
 
 <div align="center">
     <figure>
-        <img src="image\principle\first pass.jpg" width="200" />
+        <img src="image\principle\first pass.jpg" width="150" />
         <figcaption>First pass</figcaption>
         <img src="image\principle\second pass.jpg" width="200" />
         <figcaption>Second pass</figcaption>
