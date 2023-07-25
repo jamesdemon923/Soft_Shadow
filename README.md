@@ -20,13 +20,20 @@ The 1st Pass: render a depth map from the light source which is also known as Sh
 
 The 2nd Pass: render the real scene from the current camera and transform pixel point to the light source space, take its depth in the light source space with the same uv coordinates recorded in ShadowMap for comparison. If the depth is is greater than the depth in ShadowMap, the point is in the shadow.
 
-<div align=center>
-    <img src="image\principle\first pass.jpg" width="200" title="First pass"/>
+<div align="center">
+    <figure>
+        <img src="image\principle\first pass.jpg" width="200" />
+        <figcaption>First pass</figcaption>
+    </figure>
 </div>
 
-<div align=center>
-    <img src="image\principle\second pass.jpg" width="250" title="Second pass"/>
+<div align="center">
+    <figure>
+        <img src="image\principle\second pass.jpg" width="200" />
+        <figcaption>Second pass</figcaption>
+    </figure>
 </div>
+
 
 
 ```c++
