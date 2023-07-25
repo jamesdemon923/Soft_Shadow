@@ -138,8 +138,9 @@ w_{Penumbra} = (d_{Receiver}-d_{Blocker}) \cdot w_{Light} / d_{Blocker}
 $$
 
 <div align=center>
-    <img src="image\principle\PCSS.jpg" width="350" />
+    <img src="image\principle\PCSS.jpg" width="200" />
 </div>    
+
 
 For $d_{Blocker}$, we use the approach in the following picture to get the average blocker depth.
 
