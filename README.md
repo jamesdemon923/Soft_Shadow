@@ -63,14 +63,7 @@ $$
 B = 1-dot(lightDir,normal)
 $$
 
-
-
-
-$$
-DepthBias=C_{depth}*A*B
-$$
-
-
+![equation](https://latex.codecogs.com/svg.image?DepthBias=C_%7Bdepth%7D*A*B)
 
 
 ```c++
