@@ -63,7 +63,7 @@ $$
 B = 1-dot(lightDir,normal)
 $$
 
-![equation](https://latex.codecogs.com/svg.image?DepthBias=C_%7Bdepth%7D*A*B)
+<p align="center">   <img src="https://latex.codecogs.com/svg.image?DepthBias=C_%7Bdepth%7D*A*B"/> </p>
 
 
 ```c++
