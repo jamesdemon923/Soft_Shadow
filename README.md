@@ -73,8 +73,6 @@ $$
 
 
 
-
-
 ```c++
 // phongFragment.glsl
 #define SHADOW_MAP_SIZE 2048.
