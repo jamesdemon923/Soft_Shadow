@@ -24,16 +24,10 @@ The 2nd Pass: render the real scene from the current camera and transform pixel 
     <figure>
         <img src="image\principle\first pass.jpg" width="200" />
         <figcaption>First pass</figcaption>
-    </figure>
-</div>
-
-<div align="center">
-    <figure>
         <img src="image\principle\second pass.jpg" width="200" />
         <figcaption>Second pass</figcaption>
     </figure>
 </div>
-
 
 
 ```c++
