@@ -124,7 +124,7 @@ float PCF(sampler2D shadowMap, vec4 coords, float biasC, float filterRadiusUV) {
 }
 ```
 
-### Percentage Closer Soft Shadows
+### Percentage Closer Soft Shadows (PCSS)
 
 In PCSS, the further a point is from the blocker, the fainter the shadow appears, and based on similar triangles, we can derive the formula:
 
