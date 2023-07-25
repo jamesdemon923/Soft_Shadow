@@ -156,7 +156,7 @@ For $d_{Blocker}$, we use the approach in the following picture to get the avera
     </tr>
     <tr>
         <td ><center><img src="image/result/Hard shadow with bias.jpg"  style="zoom:120%;"></center></td>
-        <td ><center><img src="image/result/Hard shadow without bias.jpg"></center></td>
+        <td ><center><img src="image/result/Hard shadow without bias.jpg" style="zoom:85%;"></center></td>
     </tr>
 
 
